@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#quiz {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.options label {
+    display: block;
+}
+
+#submit-btn {
+    margin-top: 20px;
+    display: block;
+}
+
+#result {
+    text-align: center;
+    margin-top: 20px;
+}
